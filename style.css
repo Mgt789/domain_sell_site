@@ -1,0 +1,433 @@
+
+*{
+    /* background-color: red; */
+}
+/* part-1 */
+.bg{
+    background-color: #76b54b;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.bg2{
+    text-align: right;
+}
+.fa{
+    font-size: 14px;
+}
+
+/* part-2 */
+.logo-2{
+    height: 70px;
+    width: 150px;
+}
+.p2{
+    text-align: right;
+    padding-top: 18px;
+}
+.btn i{
+    font-weight: bold;
+    font-size: 16px;
+}
+.btn{
+    border-radius: 20px;
+}
+.btn:hover{
+    background-color: #76b54b;
+    border-radius: 20px;
+}
+
+/* part-3 */
+.navbar{
+    padding: 0px;
+}
+nav{
+    background-color: black;
+}
+.collapse{
+    margin-right: 5%;
+}
+#n1:hover{
+    background-color: #76b54b;
+}   
+.search{
+    text-align: right;
+    margin-right: 1rem;;
+}
+
+/* part-4  */
+.container1 img{
+    height: 500px;;
+    width: 100%;
+}
+.container1 {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+.top-left {
+    position: absolute;
+    top: 8em;
+    left: 10em;
+    text-align: left;
+    color: black;
+}
+.top-left h1{
+      font-size: 50px;
+}
+.top-left p{
+    font-size: 30px;
+}
+/* part-5 */
+.domain{
+    padding-top: 50px; 
+    padding-bottom: 10px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* part-6  */
+#search-row{
+    margin-bottom:20px;
+    display: flex;
+    background-color: #fff;
+    border-radius:0px;
+   justify-content: center;
+}
+#search{
+    flex-basis:30%;
+     padding: 5px; 
+    border-radius:5px;
+    font-size: 15px;
+    text-align: center;
+}
+
+#sumbit{
+    flex-shrink: inherit;
+    padding-left:15px;
+    padding-right: 15px;
+    font-size: 13px;
+    background-color: #76b54b;
+    color: white;
+    border-radius:5px;
+}
+
+.button{
+    position: absolute;
+    text-align: center;
+    background-color: #76b54b;
+    border-radius:5px;
+    margin-bottom: 20px;
+    margin-right:50px;
+}
+
+/* drop-down  */
+.dropbtn {
+    background-color: #e7e8e8;
+    color: black;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+}
+
+  
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+  
+.dropdown-menu a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-menu {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #e7e8e8;}
+
+
+  /* c6  */
+.c6{
+      background-color: #f0ece9;
+}
+.c6 strong{
+      font-size: 18px;
+}
+.c6 i{
+      font-size: 10px;
+      font-weight: bold;
+}
+.c6 p{
+      text-align: center;
+}
+.btn6{
+      padding-top: 40px;
+      padding-bottom: 40px;
+      text-align: center;
+}
+
+/* part-7  */
+.bg7{
+      background-color: #e7e8e8;
+}
+.bg7 h3{
+      padding-top: 40px;
+      padding-bottom: 20px;
+      font-weight: bold;
+      text-align: center;
+}
+.background-white{
+    background-color: #e7e8e8;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.inner-content1{
+    width: 100%;
+    background-color: #76b54b;
+    color: white;
+    padding: 30px 0px;
+    
+}
+.inner-content2{
+    width: 100%;
+    background-color: #2d6ecf;
+    color: white;
+    padding: 30px 0px;    
+} 
+.inner-content3{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 30px 0px;
+    
+ }
+.c7{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.text{
+    padding: 20px;
+    background-color: white;
+}
+.price{
+    background-color: #e7e8e8;
+}
+#p1 strong{
+    color: #76b54b;
+    font-size: 50px;
+}
+#p1 i{
+    font-size: 20px;
+}
+
+#p2 strong{
+    color: #2d6ecf;
+    font-size: 50px;
+}
+#p2 i{
+    font-size: 20px;
+}
+#p3{
+    padding: 0;
+}
+#p3 strong{
+    color: rgb(255, 115, 0);
+    font-size: 50px;
+}
+#p3 i{
+    font-size: 20px;
+}
+.text btn{
+    padding-top: 20px;
+}
+.button7{
+    padding-top: 20px;
+}
+
+.text2{
+    padding: 10px;
+    background-color: white; 
+    padding-bottom: 20px;
+}
+
+/* part-8  */
+
+.bg8{
+    padding-top: 50px;
+    background-color: white;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.bg8 h3{
+    font-weight: bold;
+
+}
+
+.background-white8{
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.inner-content8 p{
+    padding: 10px;
+}
+.inner-content8{
+    width: 100%;
+    background-color: #e7e8e8;
+    color: black;
+    padding: 30px 0px;
+    padding-bottom: 30px;
+    
+ }
+.background-white8 h4{
+    padding-top: 30px;
+}
+.background-white8 img{
+    height: 80px;
+    width: 80px;
+    border-radius: 150px;
+    background-color: white;
+}
+
+/* part-9 */
+.container2 {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .container2 img{
+    width:100%;
+     height: 500px;
+  }
+  
+.container9 {
+    position: absolute;
+    top: 10em;
+    left: 1px;
+    text-align: center;
+    color: white;
+    padding-left: 12em;
+    padding-right:12em;
+}
+.container9 p1{
+    font-size: 50px;
+      font-weight: bold;
+}
+.container9 p{
+    padding-top: 20px;
+    font-size: 25px;
+}
+.container9 a{
+    color: #76b54b;
+}
+.container9 p2{
+    font-size: 20px;
+}
+.btn91{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/* part-10 */
+.b10{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.c10{
+    background-color: white;
+    text-align: center;
+    padding: 30px
+}
+.c10 strong{
+    font-size: 35px;
+}
+.c10 p10{
+   font-size: 14px;
+}
+
+/* part-11  */
+.bg11{
+    background-color: rgba(0, 0, 0, 0.733);
+    padding-bottom: 50px;
+}
+.b11{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.c11{
+    background-color: rgba(0, 0, 0, 0.39);
+    padding: 20px;
+}
+.c11 ul{
+    font-size: 20px;
+    color:  white;
+}
+.c11 a{
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+}
+.c11 a:hover{
+    color: #76b54b;
+}
+.c11 #in11{
+    margin-top: 20px;
+    border-radius: 20px;
+    font-size: 14px;
+    height: 2em;
+    width: 15em;
+}
+
+
+.c11 #btn11{
+    margin-top: 15px;
+    border-radius: 20px;
+    background-color: #76b54b;
+    color: white;
+    font-size: 13px;
+    padding: 3px 15px;
+}
+
+/* icon part  */
+.icon p{
+    color: white;
+}
+.icon i{
+    color: white;
+    font-size: 30px;
+    padding: 5px;
+}
+.icon p{
+    font-size: 18px;
+}
+.i11 i{
+    padding: 0px;
+    font-size: 25px;
+}
+
+/* part-12 */
+.bg12{
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+}
+.i12 a{
+    text-decoration: none;
+    color: white;
+}
